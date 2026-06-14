@@ -49,7 +49,9 @@ Please allow your Device time to boot safely into the USB.
 
 9. Reboot into Windows normally
 
-You may run into a roadblock with the Bitlocker portion, In my case i was able to find s the bit locker key throiugh navigating the clients Microsoft Account. Other times when you done have access to the users account you can try looking through other drives, Windows has the option to leave you key in a folder that isnt your C: Drive.
+⚠️ BitLocker Note
+You may run into a roadblock with the BitLocker portion. In my case, I was able to retrieve the BitLocker recovery key by navigating to the client's Microsoft account at account.microsoft.com/devices/recoverykey.
+If you don't have access to the user's Microsoft account, try checking other drives connected to the device. Windows gives you the option to save your BitLocker recovery key to a folder outside of the C: drive, so it may be stored on a secondary or external drive.
 
 ## ⚠️ Disclaimer
 This is for **educational purposes only**. Only use this on systems you own 
