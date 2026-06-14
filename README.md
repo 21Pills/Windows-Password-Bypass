@@ -9,7 +9,6 @@ password using Hiren's Boot CD.
 - [Hiren's Boot CD](https://www.hirensbootcd.org/)
 - Rufus (https://rufus.ie)
 - Windows PE Environment
-- Command Prompt (Admin)
 -16GB USB Flash Drive
 -Computer/Laptop with Internet Access
 
