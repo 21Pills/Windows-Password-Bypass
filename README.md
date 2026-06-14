@@ -50,6 +50,8 @@ Please allow your Device time to boot safely into the USB.
 
 9. Reboot into Windows normally
 
+You may run into a roadblock with the Bitlocker portion, In my case i was able to find s the bit locker key throiugh navigating the clients Microsoft Account. Other times when you done have access to the users account you can try looking through other drives, Windows has the option to leave you key in a folder that isnt your C: Drive.
+
 ## ⚠️ Disclaimer
 This is for **educational purposes only**. Only use this on systems you own 
 or have explicit permission to access. Unauthorized access to computer systems 
